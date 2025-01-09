@@ -12,7 +12,7 @@ try:
 except ImportError:
     requests_available = False
 
-VERSION = "1.0.0"
+VERSION = "0.1.0"
 GREEN = '\033[92m'
 RESET = '\033[0m'
 
